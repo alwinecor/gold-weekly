@@ -1,2 +1,7 @@
-# gold-weekly
-Weekly global gold market intelligence brief
+# Gold Weekly
+
+全球黄金市场中文周报静态站点。
+
+每期周报集中整理与黄金价格相关的全球宏观政策、利率与通胀、美元与美债、央行购金、ETF 资金流、地缘政治、战争、能源、矿业供给与实物需求等信息。
+
+站点采用纯 HTML/CSS，可通过 GitHub Pages 部署。
