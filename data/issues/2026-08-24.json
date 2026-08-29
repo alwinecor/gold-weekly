@@ -1,0 +1,320 @@
+{
+  "issue": {
+    "number": 1,
+    "date": "2026-08-24",
+    "title": "黄金全球信息周报"
+  },
+  "window": {
+    "start": "2026-08-17",
+    "end": "2026-08-24"
+  },
+  "overview": [
+    "美国财政部 8 月 19 日宣布扩大长期国债回购：10–20 年及 20–30 年期限的流动性支持回购，单次上限将从 20 亿美元提高至至少 40 亿美元，9 月 9 日起生效。",
+    "美联储 8 月 19 日公布 7 月 FOMC 会议纪要，委员会内部对通胀风险和进一步紧缩仍存在明显分歧。",
+    "美国 7 月进口价格环比下降 0.4%，出口价格下降 1.3%，燃料进口价格下跌是进口价格回落的重要原因。",
+    "欧元区 7 月通胀终值为 2.9%，高于 6 月的 2.8%，能源继续是重要贡献项。",
+    "英国 7 月 CPI 同比从 2.6%升至 2.9%，能源与住房相关价格仍是重要驱动。",
+    "中国 8 月 LPR 连续第 15 个月不变：1 年期 3.00%，5 年期以上 3.50%。",
+    "日本 7 月全国 CPI 同比上涨 1.9%；日本央行下一次政策会议为 9 月 17–18 日。",
+    "截至 8 月 19 日的一周，Reuters 汇总的基金流向数据显示，黄金及其他贵金属商品基金净流入约 20.4 亿美元。",
+    "8 月 21 日黄金升至约三个月高位并实现连续第三周上涨，美元走弱与长期美债变化是主要市场叙事之一。",
+    "霍尔木兹海峡信息仍高度冲突：美国与伊朗对海峡是否开放公开说法相反，实际航运安排已出现明显变化。"
+  ],
+  "sections": [
+    {
+      "id": "macro",
+      "title": "国际宏观与政策",
+      "groups": [
+        {
+          "name": "美国",
+          "items": [
+            {
+              "source_level": "primary",
+              "source_name": "U.S. Treasury",
+              "published": "2026-08-19",
+              "title": "Treasury Announces Increased Sizes of Nominal Long-End Liquidity Support Buybacks Beginning September 9",
+              "summary": "美国财政部宣布，自 9 月 9 日起，10–20 年和 20–30 年名义国债的流动性支持回购规模将至少翻倍；单次操作最大规模由 20 亿美元提高至至少 40 亿美元，并持续到本季度再融资周期结束。",
+              "why_it_matters": "长期美债收益率、美元与黄金之间存在直接资产配置联系。此项措施本身不改变财政赤字，但会影响市场对长期债券流动性与财政部市场操作的判断。",
+              "information_type": "官方政策公告",
+              "url": "https://home.treasury.gov/news/press-releases/sb0607"
+            },
+            {
+              "source_level": "primary",
+              "source_name": "Federal Reserve",
+              "published": "2026-08-19",
+              "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+              "summary": "美联储发布 7 月 28–29 日 FOMC 会议纪要。纪要显示，委员会仍把通胀风险置于核心位置，内部对是否需要进一步收紧存在分歧。",
+              "why_it_matters": "这是研究美联储政策判断最重要的一手文本之一，媒体对“鹰派/鸽派”的概括应与会议纪要本身分开阅读。",
+              "information_type": "官方会议纪要",
+              "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm"
+            },
+            {
+              "source_level": "primary",
+              "source_name": "U.S. Bureau of Labor Statistics",
+              "published": "2026-08-18",
+              "title": "U.S. Import and Export Price Indexes — July 2026",
+              "summary": "美国 7 月进口价格环比下降 0.4%，6 月为下降 0.3%；燃料进口价格下跌抵消了非燃料进口价格上涨。出口价格环比下降 1.3%。",
+              "why_it_matters": "进口价格有助于观察外部成本压力，尤其在能源和贸易政策变化较大的时期，可作为通胀环境的补充指标。",
+              "information_type": "官方统计数据",
+              "url": "https://www.bls.gov/news.release/ximpim.htm"
+            }
+          ]
+        },
+        {
+          "name": "欧元区",
+          "items": [
+            {
+              "source_level": "primary",
+              "source_name": "Eurostat",
+              "published": "2026-08-19",
+              "title": "Annual inflation up to 2.9% in the euro area",
+              "summary": "欧元区 7 月年度通胀率终值为 2.9%，高于 6 月的 2.8%；欧盟整体为 3.0%。能源仍是年度通胀的重要贡献来源。",
+              "why_it_matters": "欧洲高度暴露于中东能源价格变化，能源通胀是否继续向其他价格传导，是 ECB 后续利率决策的重要变量。",
+              "information_type": "官方统计数据",
+              "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-19082026-ap"
+            },
+            {
+              "source_level": "context",
+              "source_name": "European Central Bank",
+              "published": "2026-07-23",
+              "title": "Monetary policy decisions",
+              "summary": "本周 ECB 没有举行新的利率会议。当前政策基线来自 7 月 23 日会议：三大关键利率维持不变，ECB 表示将持续观察中东冲突带来的能源冲击强度、持续时间以及第二轮效应。",
+              "information_type": "官方政策基线；非本周新发布",
+              "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html"
+            }
+          ]
+        },
+        {
+          "name": "英国",
+          "items": [
+            {
+              "source_level": "primary",
+              "source_name": "UK Office for National Statistics",
+              "published": "2026-08-19",
+              "title": "Consumer price inflation, UK: July 2026",
+              "summary": "英国 7 月 CPI 同比上涨 2.9%，高于 6 月的 2.6%；环比上涨 0.3%。住房及家庭服务，尤其天然气和电力，是推动通胀上升的重要因素。",
+              "information_type": "官方统计数据",
+              "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/latest"
+            },
+            {
+              "source_level": "context",
+              "source_name": "Bank of England",
+              "published": "2026-07-30",
+              "title": "Bank Rate maintained at 3.75% — July 2026 Monetary Policy Summary and Minutes",
+              "summary": "英国央行 7 月会议以 6–3 投票维持 Bank Rate 在 3.75%；三名委员支持加息至 4.00%。央行特别强调中东事件造成的能源价格冲击仍具有高度不确定性。",
+              "information_type": "官方政策基线；非本周新发布",
+              "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026"
+            }
+          ]
+        },
+        {
+          "name": "中国",
+          "items": [
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-20",
+              "title": "China leaves loan rates steady for 15th consecutive month in August",
+              "summary": "中国 8 月贷款市场报价利率连续第 15 个月保持不变：1 年期 LPR 为 3.00%，5 年期以上 LPR 为 3.50%。",
+              "caveat": "本期检索未获得稳定可直接链接的央行公告页面，因此保留 Reuters 报道作为核查入口；后续若官方原始页面可稳定访问，应优先替换为一手链接。",
+              "information_type": "高可信媒体报道政策报价",
+              "url": "https://www.investing.com/news/economy-news/china-leaves-loan-rates-steady-for-15th-consecutive-month-in-august-4868550"
+            }
+          ]
+        },
+        {
+          "name": "日本",
+          "items": [
+            {
+              "source_level": "primary",
+              "source_name": "Statistics Bureau of Japan",
+              "published": "2026-08-21",
+              "title": "Consumer Price Index (2025-base) — July 2026, Japan",
+              "summary": "日本统计局发布 2025 基期 CPI。7 月全国 CPI 同比上涨 1.9%。",
+              "information_type": "官方统计数据",
+              "url": "https://www.stat.go.jp/english/data/cpi/"
+            },
+            {
+              "source_level": "context",
+              "source_name": "Bank of Japan",
+              "published": "2026-07-31",
+              "title": "Statement on Monetary Policy",
+              "summary": "本周日本央行没有新的政策决定。最新政策声明来自 7 月 31 日会议；下一次货币政策会议安排在 9 月 17–18 日。",
+              "information_type": "官方政策基线；非本周新发布",
+              "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/index.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gold",
+      "title": "黄金市场、资金流与供需",
+      "groups": [
+        {
+          "name": "市场与资金流",
+          "items": [
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-21",
+              "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
+              "summary": "8 月 21 日现货黄金上涨并触及约三个月高位，黄金连续第三周上涨。Reuters 将美元走弱、财政部长期债券回购扩大、技术性买盘及 ETF/期权兴趣上升列为重要因素。",
+              "information_type": "市场行情报道与记者/分析师归因",
+              "url": "https://www.reuters.com/business/gold-steadies-heads-third-straight-weekly-gain-2026-08-21/"
+            },
+            {
+              "source_level": "primary",
+              "source_name": "World Gold Council",
+              "published": "2026-08-06",
+              "title": "Europe's golden heatwave — Gold ETF Flows: July 2026",
+              "summary": "世界黄金协会数据显示，7 月全球实物黄金 ETF 净流入约 30 亿美元，结束此前连续两个月净流出；全球黄金 ETF 持仓增加约 23 吨至 4,068 吨。",
+              "information_type": "行业机构数据",
+              "url": "https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/08"
+            },
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-21",
+              "title": "Global equity fund inflows hit three-week high before late selloff",
+              "summary": "Reuters 基于 LSEG/Lipper 等基金流向数据汇总，截至 8 月 19 日的一周，黄金及其他贵金属商品基金净流入约 20.4 亿美元，连续第六周获得资金流入。",
+              "information_type": "第三方基金流向数据的媒体汇总",
+              "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-08-21/"
+            },
+            {
+              "source_level": "context",
+              "source_name": "World Gold Council",
+              "published": "2026-07-30",
+              "title": "Gold Demand Trends: Q2 2026",
+              "summary": "Q2 包含 OTC 的黄金总需求约 1,269 吨；央行净购金约 289 吨；金条金币投资约 307 吨；珠宝需求约 278 吨；矿山产量同比增长约 2%。",
+              "information_type": "季度供需基线；非本周新发布",
+              "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q2-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治与战争",
+      "note": "本节严格区分可观察事实、官方说法与媒体报道。战争时期的单方声明不自动视为已被独立验证。",
+      "groups": [
+        {
+          "name": "中东与霍尔木兹海峡",
+          "items": [
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-18",
+              "title": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut",
+              "summary": "美国总统特朗普称目前没有与伊朗进行谈判，并表示霍尔木兹海峡仍然开放；伊朗方面则公开表示海峡仍处于关闭状态。",
+              "caveat": "“海峡是否开放”是双方公开说法冲突的典型案例。本周报不把任何一方声明单独写成事实结论，应结合船舶追踪、保险和实际装运量等可观察数据判断。",
+              "information_type": "双方官方说法 + Reuters 信息整理",
+              "url": "https://www.reuters.com/world/middle-east/trump-says-no-talks-planned-with-iran-tehran-says-strait-hormuz-still-shut-2026-08-18/"
+            },
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-18",
+              "title": "China's state shippers deploy oil tankers outside Gulf, avoid chokepoints, sources say",
+              "summary": "Reuters 引述消息人士和航运数据称，中国国有航运企业将部分油轮调往海湾外，通过海上船对船转运等方式降低霍尔木兹与曼德海峡风险暴露。",
+              "information_type": "媒体调查、航运数据与消息人士",
+              "url": "https://www.reuters.com/business/energy/chinas-state-shippers-deploy-oil-tankers-outside-gulf-avoid-chokepoints-sources-2026-08-18/"
+            }
+          ]
+        },
+        {
+          "name": "俄乌战争",
+          "items": [
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-22",
+              "title": "Putin says Ukraine opened 'Pandora's box' with strikes on economic targets",
+              "summary": "俄罗斯总统普京表示，将对乌克兰针对俄罗斯炼油厂、仓库等经济基础设施的袭击进行报复，并再次强调俄方谈判条件。",
+              "caveat": "普京关于责任归属和谈判条件属于俄方官方表述；基础设施遭袭与冲突升级本身应通过多源报道交叉核查。",
+              "information_type": "官方说法 + 战况报道",
+              "url": "https://www.reuters.com/world/europe/putin-says-ukraine-opened-pandoras-box-with-strikes-economic-targets-2026-08-22/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "energy",
+      "title": "能源与大宗商品",
+      "groups": [
+        {
+          "name": "能源与跨资产市场",
+          "items": [
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-18",
+              "title": "Oil market starts pricing in a prolonged Hormuz crisis",
+              "summary": "Reuters 市场分析认为，油市正在逐步把霍尔木兹危机视为较长期的供应扰动，而不再只是短暂冲击，并提到航运受阻、替代路线能力有限、库存和运输成本等问题。",
+              "caveat": "部分航运流量数字受船舶追踪口径与暗船活动影响，属于不确定性较高的市场估计，不应视作精确官方统计。",
+              "information_type": "媒体市场分析",
+              "url": "https://www.reuters.com/commentary/reuters-open-interest/oil-market-starts-pricing-prolonged-hormuz-crisis-2026-08-18/"
+            },
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-19",
+              "title": "Dollar falls after US Treasury plans more bond buybacks",
+              "summary": "财政部宣布扩大长期国债回购后，美元指数走弱，30 年期美债收益率明显回落；同一报道中，Brent 原油仍处于较高水平。",
+              "why_it_matters": "美元、长期利率与能源通胀都是黄金最敏感的外部变量之一。",
+              "information_type": "跨资产市场行情报道",
+              "url": "https://www.reuters.com/world/africa/dollar-drifts-near-multi-month-lows-treasury-yields-ease-fed-minutes-awaited-2026-08-19/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source_index": [
+    {"label": "U.S. Treasury — Increased Sizes of Nominal Long-End Liquidity Support Buybacks", "url": "https://home.treasury.gov/news/press-releases/sb0607"},
+    {"label": "Federal Reserve — FOMC Minutes, July 28–29, 2026", "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm"},
+    {"label": "U.S. BLS — Import and Export Price Indexes, July 2026", "url": "https://www.bls.gov/news.release/ximpim.htm"},
+    {"label": "Eurostat — Euro area annual inflation, July 2026", "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-19082026-ap"},
+    {"label": "ECB — July 2026 Monetary Policy Decisions", "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html"},
+    {"label": "UK ONS — Consumer price inflation, July 2026", "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/latest"},
+    {"label": "Bank of England — July 2026 Monetary Policy Summary and Minutes", "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026"},
+    {"label": "Statistics Bureau of Japan — Consumer Price Index", "url": "https://www.stat.go.jp/english/data/cpi/"},
+    {"label": "Bank of Japan — Statements on Monetary Policy 2026", "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/index.htm"},
+    {"label": "World Gold Council — Gold ETF Flows: July 2026", "url": "https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/08"},
+    {"label": "World Gold Council — Gold Demand Trends: Q2 2026", "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q2-2026"}
+  ],
+  "calendar": [
+    {
+      "date": "8 月 26 日",
+      "title": "美国 BEA：Q2 GDP 第二次估算与 Personal Income and Outlays",
+      "summary": "包含美联储高度关注的 PCE 价格数据。",
+      "url": "https://www.bea.gov/index.php/news/schedule"
+    },
+    {
+      "date": "8 月 27–29 日",
+      "title": "Jackson Hole Economic Policy Symposium",
+      "summary": "堪萨斯城联储年度经济政策研讨会。",
+      "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/2026/"
+    },
+    {
+      "date": "8 月 28 日",
+      "title": "美联储主席 Kevin Warsh 开幕讲话",
+      "summary": "Jackson Hole 官方日程中的重点公开讲话。",
+      "url": "https://www.kansascityfed.org/newsroom/2026-news-releases/kansas-city-fed-to-host-annual-jackson-hole-economic-policy-symposium-2026/"
+    }
+  ],
+  "analysis": [
+    "美元与长期美债仍是近期最值得跟踪的金融变量。财政部回购措施同时影响长期收益率与美元，本周黄金对此反应明显。",
+    "能源冲击对黄金不是单向影响：战争和运输受阻可以增加避险需求，但若能源价格持续推高通胀，也可能促使央行维持或提高利率。",
+    "WGC ETF 数据与 Reuters 基金流向均显示近期资金重新进入黄金与贵金属资产，但短期资金流可以快速反转，不能等同于长期趋势保证。",
+    "央行购金仍是结构性背景；具体月度购金应以各央行储备披露与 WGC 后续更新为准。"
+  ],
+  "plain_summary": [
+    "这一周国际黄金市场最重要的变化首先来自美国：美国财政部宣布扩大长期国债回购，美联储公布 7 月会议纪要，市场因此重新讨论美国长期利率、美元以及未来是否继续加息。与此同时，欧洲和英国最新通胀数据都显示能源价格仍在制造压力，中国贷款基准利率没有变化，日本公布了新的 7 月通胀数据。",
+    "黄金市场本身也出现较明显的资金流入：世界黄金协会数据显示 7 月黄金 ETF 已重新转为净流入；Reuters 的最新周度基金数据同样显示贵金属基金持续得到资金。",
+    "国际局势方面，最值得关注的仍是伊朗、美国和霍尔木兹海峡。交战双方对海峡是否真正开放存在直接矛盾，因此不能只看任何一方的声明；实际航运安排已经出现变化。",
+    "如果只记住一句话：本周值得关注的不是“黄金一定会涨还是跌”，而是美元、美国长期国债、能源价格和中东航运风险正在同时变化；这些都是未来几周需要继续跟踪的一手信息。"
+  ]
+}
