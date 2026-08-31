@@ -1,0 +1,363 @@
+{
+  "issue": {
+    "number": 2,
+    "date": "2026-08-31",
+    "title": "黄金全球信息周报"
+  },
+  "window": {
+    "start": "2026-08-24",
+    "end": "2026-08-31"
+  },
+  "overview": [
+    "美联储主席 Kevin Warsh 在 8 月 28 日 Jackson Hole 讲话中表示，美国劳动力市场仍与充分就业相符，但 PCE 通胀同比 3.7%，明显高于 2%目标，因此当前政策重点应放在价格稳定。",
+    "美国 BEA 8 月 26 日公布，7 月 PCE 价格指数环比上涨 0.2%、同比上涨 3.7%；核心 PCE 环比上涨 0.2%、同比上涨 3.3%。",
+    "美国二季度实际 GDP 第二次估算为年化增长 1.5%，低于一季度的 2.1%。",
+    "Warsh 讲话后市场提高了 9 月加息押注，美元和短端美债收益率上升；现货黄金 8 月 28 日一度下跌超过 3%。",
+    "截至 8 月 26 日的一周，Reuters 基于 LSEG Lipper 数据报道，黄金及其他贵金属商品基金净流入约 42.1 亿美元，达到约六个月高位。",
+    "中国国家统计局 8 月 31 日公布，8 月制造业 PMI 升至 49.8%，生产和新订单指数分别升至 50.4%和 50.6%；非制造业商务活动指数为 49.0%。",
+    "欧洲委员会 8 月经济景气调查显示，欧元区经济景气指数升至 98.4，就业预期指数升至 98.9，均接近长期均值但尚未明显强于均值。",
+    "美国与伊朗在霍尔木兹海峡附近重新发生直接军事行动：美军打击伊朗 Larak 岛目标后，伊朗对驻约旦美军基地发动导弹报复，Brent 原油重新升至每桶 90 美元以上。",
+    "美国总统特朗普 8 月 31 日发布 AI 生成视频并声称伊朗 Kharg 岛遭到摧毁；Reuters 明确表示当时没有独立证据支持这一说法。",
+    "加拿大政府宣布，自 9 月 8 日起对 276 亿加元规模的美国进口商品实施 15%、25%或 50%的对等反制关税。"
+  ],
+  "sections": [
+    {
+      "id": "macro",
+      "title": "国际宏观与政策",
+      "groups": [
+        {
+          "name": "美国",
+          "items": [
+            {
+              "source_level": "primary",
+              "source_name": "Federal Reserve",
+              "published": "2026-08-28",
+              "title": "In Our Time",
+              "summary": "美联储主席 Kevin Warsh 在 Jackson Hole 表示，美国劳动力市场总体稳定，失业率为 4.1%，他认为当前劳动力市场与充分就业相符；相比之下，价格稳定一侧更令人担忧。Warsh 指出，12 个月 PCE 通胀为 3.7%，六个月变化折年率为 4.1%，且核心通胀也偏高。他明确表示，美联储当前的主要关注点应是价格，并认为今夏较好的部分通胀读数尚不足以证明基础通胀趋势已显著改善。",
+              "why_it_matters": "这是本周最重要的一手货币政策信号。讲话没有承诺 9 月具体利率决定，但显著强化了市场对进一步紧缩的警觉。",
+              "information_type": "官方央行讲话",
+              "url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm"
+            },
+            {
+              "source_level": "primary",
+              "source_name": "U.S. Bureau of Economic Analysis",
+              "published": "2026-08-26",
+              "title": "Personal Income and Outlays, July 2026",
+              "summary": "BEA 数据显示，7 月个人收入环比增长 0.4%，可支配个人收入增长 0.5%，名义个人消费支出增长 0.2%。PCE 价格指数环比上涨 0.2%、同比上涨 3.7%；剔除食品和能源后的核心 PCE 环比上涨 0.2%、同比上涨 3.3%。实际个人消费支出环比基本持平，个人储蓄率为 3.0%。",
+              "why_it_matters": "PCE 是美联储最重视的通胀指标之一。本次数据确认通胀仍明显高于 2%目标，同时实际消费增速偏弱。",
+              "information_type": "官方统计数据",
+              "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-july-2026"
+            },
+            {
+              "source_level": "primary",
+              "source_name": "U.S. Bureau of Economic Analysis",
+              "published": "2026-08-26",
+              "title": "GDP (Second Estimate) and Corporate Profits, 2nd Quarter 2026",
+              "summary": "BEA 将美国二季度实际 GDP 年化增速第二次估算维持在 1.5%，低于一季度的 2.1%。二季度增长来自消费、出口和投资增加，政府支出下降形成拖累；进口增加也在 GDP 核算中形成减项。",
+              "why_it_matters": "经济增速放缓与通胀仍偏高并存，使美联储面临更复杂的增长—通胀权衡。",
+              "information_type": "官方统计数据",
+              "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-2nd-quarter-2026"
+            },
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-28",
+              "title": "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
+              "summary": "Reuters 报道，Warsh 讲话后交易员提高了 9 月加息概率，美元走强，现货黄金一度下跌超过 3%至约 4,567 美元/盎司，为 8 月 20 日以来低位。报道把利率预期和美元变化列为当日金价主要驱动。",
+              "caveat": "加息概率来自市场定价，会随数据和交易变化；政策事实应以美联储官方文件为准。",
+              "information_type": "市场行情与政策预期报道",
+              "url": "https://www.reuters.com/world/india/gold-slips-fed-chief-warshs-jackson-hole-speech-looms-2026-08-28/",
+              "related_url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm"
+            }
+          ]
+        },
+        {
+          "name": "欧元区与英国",
+          "items": [
+            {
+              "source_level": "primary",
+              "source_name": "European Commission DG ECFIN",
+              "published": "2026-08-28",
+              "title": "August 2026: Economic Sentiment and Employment Expectations pick up in both the EU and the euro area",
+              "summary": "欧盟委员会 8 月调查显示，经济景气指数在欧盟升至 98.2、欧元区升至 98.4；就业预期指数在欧盟升至 99.0、欧元区升至 98.9。两项指标都重新接近长期均值 100，但消费者信心仍低于长期平均。",
+              "why_it_matters": "欧元区增长韧性与能源通胀共同决定 ECB 在 9 月会议上的政策空间。",
+              "information_type": "官方景气调查",
+              "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/business-and-consumer-surveys/latest-business-and-consumer-surveys_en"
+            },
+            {
+              "source_level": "context",
+              "source_name": "European Central Bank",
+              "published": "2026-07-23",
+              "title": "Monetary policy decisions",
+              "summary": "本周 ECB 没有新的利率决定。当前政策基线仍来自 7 月 23 日会议；下一次货币政策会议将在 9 月 9–10 日举行。",
+              "information_type": "政策基线 / 非本周新决定",
+              "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+              "related_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+            },
+            {
+              "source_level": "context",
+              "source_name": "Bank of England",
+              "published": "2026-07-30",
+              "title": "Bank Rate maintained at 3.75% - July 2026",
+              "summary": "本周英国央行没有新的利率决定。当前 Bank Rate 为 3.75%；英国央行确认下一次 MPC 决议将在 9 月 17 日发布。",
+              "information_type": "政策基线 / 非本周新决定",
+              "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026",
+              "related_url": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates"
+            }
+          ]
+        },
+        {
+          "name": "中国与日本",
+          "items": [
+            {
+              "source_level": "primary",
+              "source_name": "中国国家统计局",
+              "published": "2026-08-31",
+              "title": "2026年8月中国采购经理指数运行情况",
+              "summary": "8 月制造业 PMI 为 49.8%，比上月上升 0.6 个百分点，仍略低于荣枯线。生产指数为 50.4%，新订单指数为 50.6%，两者回到扩张区间；大型企业 PMI 为 50.6%，中型和小型企业仍低于 50。非制造业商务活动指数为 49.0%，综合 PMI 产出指数为 49.5%。",
+              "why_it_matters": "中国是重要的实物黄金消费市场。数据说明制造业边际改善，但整体恢复仍不均衡，不能仅凭单一 PMI 推断黄金需求。",
+              "information_type": "官方宏观调查数据",
+              "url": "https://www.stats.gov.cn/sj/zxfbhjd/202608/t20260831_1965154.html"
+            },
+            {
+              "source_level": "context",
+              "source_name": "Bank of Japan",
+              "published": "2026-08-28",
+              "title": "Release Schedule",
+              "summary": "本周日本央行没有新的政策决定。日本央行官方日程确认，下一次货币政策会议将在 9 月 17–18 日举行，政策声明预计在 9 月 18 日发布。",
+              "information_type": "官方日程 / 政策基线",
+              "url": "https://www.boj.or.jp/en/about/calendar/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gold",
+      "title": "黄金市场、资金流与供需",
+      "groups": [
+        {
+          "name": "价格与资金流",
+          "items": [
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-31",
+              "title": "Gold dips as Fed hike bets rise, still heads for best month since Jan",
+              "summary": "8 月 31 日现货黄金约报 4,436 美元/盎司，受美联储加息预期上升影响走弱。尽管周末波动明显，Reuters 指出黄金 8 月仍上涨超过 10%，为 1 月以来最佳月度表现。",
+              "caveat": "当日价格是动态市场数据，不代表收盘价；报告保留报道时点的行情语境。",
+              "information_type": "市场行情报道",
+              "url": "https://www.reuters.com/world/india/gold-hits-near-two-week-low-fed-chiefs-hawkish-stance-2026-08-31/"
+            },
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-28",
+              "title": "Global equity funds snap 13-week inflow streak",
+              "summary": "Reuters 基于 LSEG Lipper 数据称，截至 8 月 26 日的一周，黄金及其他贵金属商品基金净流入约 42.1 亿美元，达到约六个月高位；与此同时，全球股票基金结束连续 13 周净流入。",
+              "why_it_matters": "资金流数据显示，在利率预期重新偏鹰之前，贵金属配置需求仍然明显。",
+              "information_type": "第三方基金流向数据的媒体汇总",
+              "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-08-28/"
+            },
+            {
+              "source_level": "primary",
+              "source_name": "World Gold Council",
+              "published": "2026-08-24",
+              "title": "Gold ETFs, holdings and flows",
+              "summary": "世界黄金协会的公开数据平台覆盖 100 多只实物黄金 ETF，并按周和按月更新持仓与资金流。当前完整月度数据仍显示 7 月全球黄金 ETF 净流入约 30 亿美元，全球持仓增加 23 吨至 4,068 吨；网页说明周度数据通常在次周一更新。",
+              "caveat": "WGC 与 LSEG Lipper 的覆盖范围和统计口径不同，因此本期不把两套数字直接相加或视为同一指标。",
+              "information_type": "行业一手数据平台",
+              "url": "https://www.gold.org/goldhub/data/gold-etfs-holdings-and-flows"
+            }
+          ]
+        },
+        {
+          "name": "供需与央行购金基线",
+          "items": [
+            {
+              "source_level": "context",
+              "source_name": "World Gold Council",
+              "published": "2026-07-30",
+              "title": "Gold Demand Trends: Q2 2026",
+              "summary": "本周没有新的完整季度黄金供需报告。Q2 2026 仍是最新结构性基线：央行净购金约 289 吨，金条金币投资约 307 吨，珠宝需求偏弱，矿山产量同比增长约 2%。",
+              "why_it_matters": "央行购金仍提供中长期需求支撑，但本周金价短期波动主要由美元、利率预期和地缘风险主导。",
+              "information_type": "季度供需基线 / 非本周新发布",
+              "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q2-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治与战争",
+      "note": "本节严格区分已确认行动、交战方声明和媒体核查；单方战时说法不自动视为已验证事实。",
+      "groups": [
+        {
+          "name": "美国—伊朗与霍尔木兹海峡",
+          "items": [
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-30",
+              "title": "US forces strike two Iranian launchers on Iran's Larak island, US official says",
+              "summary": "Reuters 援引美国官员报道，美军 8 月 30 日对伊朗 Larak 岛上的两个发射设施实施打击，美方称这些设施与向霍尔木兹海峡部署火箭和水雷有关。伊朗随后向驻约旦美军基地发射弹道导弹，多数被拦截。此次行动标志着美伊直接军事冲突再次升级。",
+              "caveat": "关于目标具体用途的描述来自美国官方；伊朗对伤亡和报复的表述属于伊方说法，应与独立核查区分。",
+              "information_type": "军事行动报道 + 双方官方说法",
+              "url": "https://www.reuters.com/world/middle-east/us-forces-strike-two-iranian-launchers-irans-larak-island-us-official-says-2026-08-30/"
+            },
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-31",
+              "title": "Iran dismisses Trump's post of attack on key energy hub of Kharg",
+              "summary": "美国总统特朗普发布 AI 生成视频并声称伊朗关键石油出口中心 Kharg 岛被摧毁。Reuters 明确指出，当时没有来自白宫、五角大楼或其他独立来源的证据证实相应袭击；伊朗方面否认 Kharg 岛遭到破坏并称设施继续运行。",
+              "caveat": "这是本周重要的信息核查案例：政治人物公开说法不应在缺乏证据时写成已确认军事事实。",
+              "information_type": "政治人物声明 + 媒体事实核查",
+              "url": "https://www.reuters.com/world/middle-east/trump-posts-ai-video-irans-kharg-smithereens-no-evidence-attack-2026-08-31/"
+            }
+          ]
+        },
+        {
+          "name": "制裁与金融压力",
+          "items": [
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-30",
+              "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
+              "summary": "美国财政部长 Scott Bessent 表示，美国计划持续扩大对伊朗的次级制裁，首先针对与伊朗金融活动有关的银行，并可能按周推出新的措施。其政策逻辑是迫使相关机构在继续与伊朗交易和使用美国金融体系之间作出选择。",
+              "caveat": "这是财政部长对后续政策的公开表态；实际制裁对象、法律依据和生效范围须以后续美国财政部正式公告为准。",
+              "information_type": "政策表态 / 制裁计划",
+              "url": "https://www.reuters.com/business/finance/bessent-expects-new-us-secondary-sanctions-weekly-aiming-increase-pressure-iran-2026-08-30/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "energy",
+      "title": "能源与大宗商品",
+      "groups": [
+        {
+          "name": "石油与航运",
+          "items": [
+            {
+              "source_level": "media",
+              "source_name": "Reuters",
+              "published": "2026-08-30",
+              "title": "Oil rises over 3% as US, Iran resumes military attacks",
+              "summary": "美伊重新发生军事行动后，Brent 原油上涨超过 3%至约 91.25 美元/桶，WTI 升至约 86.36 美元/桶。Reuters 将霍尔木兹航运安全、军事升级和新的制裁风险列为推动能源风险溢价的重要因素。",
+              "why_it_matters": "高油价既能增加避险需求，也可能重新推高全球通胀和利率预期，对黄金形成方向相反的两条传导渠道。",
+              "information_type": "能源市场行情与地缘风险报道",
+              "url": "https://www.reuters.com/business/energy/oil-jumps-more-than-2-after-us-attack-irans-larak-island-2026-08-30/"
+            }
+          ]
+        },
+        {
+          "name": "国际贸易",
+          "items": [
+            {
+              "source_level": "primary",
+              "source_name": "Department of Finance Canada",
+              "published": "2026-08-25",
+              "title": "Canada announces targeted countermeasures and substantive support for workers and businesses in response to U.S. tariffs",
+              "summary": "加拿大政府宣布，自 9 月 8 日起对来自美国、合计约 276 亿加元的商品实施 15%、25%或 50%的反制关税，重点覆盖钢铁、乳制品、家电、农业设备、纸浆与纸张、电子产品等，并推出 75 亿加元的企业和劳工支持措施。加拿大称这些措施按照美国相关关税税率逐项匹配。",
+              "why_it_matters": "贸易摩擦可能通过商品价格、增长预期、汇率和避险情绪间接影响黄金，但其影响不应简单归类为单向利多或利空。",
+              "information_type": "官方贸易政策公告",
+              "url": "https://www.canada.ca/en/department-finance/news/2026/08/canada-announces-targeted-countermeasures-and-substantive-support-for-workers-and-businesses-in-response-to-us-tariffs.html",
+              "related_url": "https://www.canada.ca/en/department-finance/news/2026/08/list-of-products-from-the-united-states-subject-to-counter-tariffs-effective-september-8-2026.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source_index": [
+    {
+      "label": "Federal Reserve — Chairman Kevin Warsh: In Our Time (2026-08-28)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm"
+    },
+    {
+      "label": "U.S. BEA — Personal Income and Outlays, July 2026",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-july-2026"
+    },
+    {
+      "label": "U.S. BEA — GDP (Second Estimate) and Corporate Profits, Q2 2026",
+      "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-2nd-quarter-2026"
+    },
+    {
+      "label": "中国国家统计局 — 2026年8月中国采购经理指数运行情况",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202608/t20260831_1965154.html"
+    },
+    {
+      "label": "European Commission DG ECFIN — August 2026 business and consumer surveys",
+      "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/business-and-consumer-surveys/latest-business-and-consumer-surveys_en"
+    },
+    {
+      "label": "World Gold Council — Gold ETFs, holdings and flows",
+      "url": "https://www.gold.org/goldhub/data/gold-etfs-holdings-and-flows"
+    },
+    {
+      "label": "World Gold Council — Gold Demand Trends Q2 2026",
+      "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q2-2026"
+    },
+    {
+      "label": "Department of Finance Canada — Countermeasures in response to U.S. tariffs",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/08/canada-announces-targeted-countermeasures-and-substantive-support-for-workers-and-businesses-in-response-to-us-tariffs.html"
+    },
+    {
+      "label": "U.S. BLS — September 2026 release schedule",
+      "url": "https://www.bls.gov/schedule/2026/09_sched_list.htm"
+    },
+    {
+      "label": "Eurostat — July inflation release and timetable for August flash estimate",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-19082026-ap"
+    }
+  ],
+  "calendar": [
+    {
+      "date": "9 月 1 日",
+      "title": "美国 BLS：JOLTS 7 月职位空缺与劳动力流动",
+      "summary": "美东时间 10:00 发布。职位空缺、招聘和离职数据将补充判断美国劳动力市场是否仍接近充分就业。",
+      "url": "https://www.bls.gov/schedule/2026/09_sched_list.htm"
+    },
+    {
+      "date": "9 月 1 日",
+      "title": "Eurostat：欧元区 8 月通胀初值",
+      "summary": "Eurostat 已确认将在 9 月 1 日发布 8 月 HICP 快速估算。能源项仍是核心观察变量。",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-19082026-ap"
+    },
+    {
+      "date": "9 月 3 日",
+      "title": "美国 BLS：二季度生产率与成本修订值",
+      "summary": "美东时间 08:30 发布。单位劳动力成本和生产率会影响对中期通胀压力的判断。",
+      "url": "https://www.bls.gov/schedule/2026/09_sched_list.htm"
+    },
+    {
+      "date": "9 月 4 日",
+      "title": "美国 BLS：8 月就业报告",
+      "summary": "美东时间 08:30 发布。非农就业、失业率和工资数据将是 9 月 FOMC 前最关键的政策输入之一。",
+      "url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+    },
+    {
+      "date": "9 月 4 日",
+      "title": "Bank of England：8 月 Decision Maker Panel 数据",
+      "summary": "英国央行将公布企业 Decision Maker Panel 的 8 月月度数据，为 9 月 MPC 会议提供企业通胀、工资和经营预期信息。",
+      "url": "https://www.bankofengland.co.uk/news/2026/april/changes-to-publication-dates-of-the-decision-maker-panel-data-and-agents-summary"
+    }
+  ],
+  "analysis": [
+    "参考分析：本周最重要的变化是美联储政策预期重新偏鹰。PCE 通胀仍高于目标，Warsh 明确把价格稳定置于当前重点，这使美元和短端利率重新成为黄金的主要短期压力来源。",
+    "参考分析：资金流与价格短线表现出现分化。贵金属基金当周仍有明显流入，但黄金在 Warsh 讲话后大跌，说明中期配置需求与短期利率冲击可以同时存在。",
+    "参考分析：霍尔木兹风险通过油价重新进入通胀渠道。若能源价格持续处于高位，黄金可能同时面对更强避险需求与更高利率预期，两者方向相反。",
+    "参考分析：中国制造业 PMI 边际改善，但整体和非制造业仍低于 50。对黄金而言，中国实物需求、人民币和居民资产配置应分别观察，不能仅用 PMI 推断。",
+    "参考分析：美加贸易摩擦和美国对伊朗次级制裁增加贸易与金融分割风险，其对黄金更可能通过通胀、美元和避险资产配置间接体现。"
+  ],
+  "plain_summary": [
+    "这一周最重要的是美联储重新释放了更强的抗通胀信号。美国 7 月 PCE 通胀同比仍有 3.7%，核心 PCE 为 3.3%。美联储主席 Warsh 在 Jackson Hole 讲话中认为就业市场仍然稳定，但通胀改善得不够，因此市场重新提高了对 9 月加息的预期。",
+    "黄金因此在周五明显下跌：美元走强、利率预期升高，对没有利息收入的黄金构成压力。不过，从资金流看，投资者并没有整体撤离贵金属，截至 8 月 26 日的一周，黄金和其他贵金属商品基金仍获得约 42 亿美元净流入。",
+    "国际局势方面，美国和伊朗在霍尔木兹附近再次发生直接军事冲突，油价回到每桶 90 美元以上。这里需要注意，战争会增加避险需求，但高油价也会推高通胀，从而让央行更倾向维持高利率，所以它对黄金不是简单的“战争越大黄金越涨”。",
+    "中国方面，8 月制造业 PMI 从 49.2 回升到 49.8，生产和新订单重新扩张，但整体恢复仍不均衡。下周最重要的数据是美国 8 月就业报告和欧元区 8 月通胀初值，它们会直接影响接下来主要央行的利率判断。"
+  ]
+}
